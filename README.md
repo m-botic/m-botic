@@ -1,5 +1,4 @@
-# Hi there, I'm Mersad ~ [![Sandshrew](https://img.pokemondb.net/sprites/diamond-pearl/normal/sandshrew.png)](https://pokemondb.net/pokedex/sandshrew)
-<br/>
+# Hi there, I'm Mersad ~ [![Sandshrew](https://img.pokemondb.net/sprites/ruby-sapphire/normal/sandshrew.png)](https://pokemondb.net/pokedex/sandshrew)
 
 ## I'm a full-stack software engineer specializing in front-end web development!
 
@@ -10,8 +9,7 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)]
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mersad-botic/)
+- Website coming soon - 
 
 ### Languages and Tools:
 
