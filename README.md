@@ -35,5 +35,3 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
-[linkedin]: https://linkedin.com/in/codeSTACKr
