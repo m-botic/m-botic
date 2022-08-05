@@ -1,6 +1,6 @@
 # Hi there, I'm Mersad ~ [![Sandshrew](https://img.pokemondb.net/sprites/ruby-sapphire/normal/sandshrew.png)](https://pokemondb.net/pokedex/sandshrew)
 
-## I'm a full-stack software engineer specializing in front-end web development!
+## Full-stack software engineer specializing in front-end web development!
 
 - 🌱 I’m currently learning everything 🤣
 - 📌 I’m looking to collaborate & work on open source projects
