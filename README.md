@@ -1,4 +1,5 @@
-# Hi there, I'm Mersad - aka [your local Sandshrew enthusiast] [![Sandshrew](https://img.pokemondb.net/sprites/diamond-pearl/normal/sandshrew.png)](https://pokemondb.net/pokedex/sandshrew)
+# Hi there, I'm Mersad ~
+## aka [your local Sandshrew enthusiast] [![Sandshrew](https://img.pokemondb.net/sprites/diamond-pearl/normal/sandshrew.png)](https://pokemondb.net/pokedex/sandshrew)
 
 <br/>
 
@@ -7,15 +8,13 @@
 - 🌱 I’m currently learning everything 🤣
 - 📌 I’m looking to collaborate & work on open source projects
 - 🥅 2023 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw watch anime in my spare time
+- ⚡ Fun fact: I love to draw & also watch anime while I'm not coding
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](#)
-&nbsp;&nbsp;
-&nbsp;&nbsp;
+[![website](./img/globe-light.svg)]
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mersad-botic/)
-&nbsp;&nbsp;
+
 
 ### Languages and Tools:
 
@@ -29,7 +28,6 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />]
 
 <br />
 <br />
