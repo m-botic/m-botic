@@ -9,7 +9,9 @@
 
 ### Connect with me:
 
-- Website coming soon 
+LinkedIn: https://www.linkedin.com/in/mersad-botic/
+Website: https://mersadbotic.netlify.app/
+Email: mersadbotic.webdev@gmail.com
 
 ### Languages and Tools:
 
